@@ -65,8 +65,8 @@ The project calculates the following performance metrics with 95% confidence int
 ## 🏗️ Project Structure
 
 ```
-DIC/
-├── TIC copy 3.py                    # Main program file
+TIC/
+├── TIC.py                    # Main program file
 ├── README.md                        # Project documentation
 ├── CODE_REFACTORING_SUMMARY.md     # Code refactoring notes
 ├── Data/
@@ -122,7 +122,7 @@ pip install numpy pandas scikit-learn matplotlib xgboost shap imbalanced-learn s
 ### Run the Program
 
 ```bash
-python "TIC copy 3.py"
+python "TIC.py"
 ```
 
 ---
