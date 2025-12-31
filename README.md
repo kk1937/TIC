@@ -1,4 +1,4 @@
-# TIC (Trauma-Induced Coagulopathy) Prediction Model
+# Postoperative coagulopathy in patients with traumatic brain injury
 
 ## 📋 Project Overview
 
